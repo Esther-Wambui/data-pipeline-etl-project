@@ -3,7 +3,7 @@
 # ETL Extract Lab
 
 **Name:** Esther Wambui
-**Student ID:** 669399
+
 
 ## Description
 
